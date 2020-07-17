@@ -1,0 +1,19 @@
+p {
+  font-family: Lato;
+}
+img {
+height: 30vh;
+}
+.container {
+    margin-top: 10rem;
+}
+.radi-btn {
+    font-size: 20px;
+}
+.search-text {
+    height: 6vh;
+}
+input[type=radio]{
+    width: 20px;
+    height: 20px;
+  }
